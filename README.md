@@ -17,6 +17,9 @@ Este proyecto presenta un reporte en Power BI para analizar la cartera vigente, 
 
 ![antiguedad de saldos](https://github.com/user-attachments/assets/eb2a2b89-721f-4ded-a7f6-9a5700e89637)
 
+![Historial de la cartera](https://github.com/user-attachments/assets/737940a1-ccf0-424b-b7eb-0a7c3b63797e)
+
+![Informe de proyectos inmobiliarios 1](https://github.com/user-attachments/assets/a69c9f15-cf8f-40fa-be89-85bed6dbd747)
 
 
 ## ⚙️ Tecnología usada
