@@ -13,7 +13,7 @@ Este proyecto presenta un reporte en Power BI para analizar la cartera vigente, 
 
 ![relacion de tablas - informe de cartera y moras](https://github.com/user-attachments/assets/b8539406-f907-4c9f-bb01-b7152e37d720)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6542d9cc-ead3-491b-8ac5-05b81c2535dc)
 
 
 ## ⚙️ Tecnología usada
