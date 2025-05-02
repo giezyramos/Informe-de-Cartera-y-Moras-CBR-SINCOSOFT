@@ -15,6 +15,9 @@ Este proyecto presenta un reporte en Power BI para analizar la cartera vigente, 
 
 ![image](https://github.com/user-attachments/assets/6542d9cc-ead3-491b-8ac5-05b81c2535dc)
 
+![antiguedad de saldos](https://github.com/user-attachments/assets/eb2a2b89-721f-4ded-a7f6-9a5700e89637)
+
+
 
 ## ⚙️ Tecnología usada
 
